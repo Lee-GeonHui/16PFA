@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 my_name = 'Lee Geon Hui'
 my_age = 20 # not a lie
@@ -18,5 +17,3 @@ print "His teeth are usually %s depending on the coffee." % my_teeth
 # this line is tricky, try to get it exactly right
 print "If I add %d, %d, and %d I get %d." % (
     my_age, my_height, my_weight, my_age + my_height + my_weight)
-=======
->>>>>>> parent of 40250a2... changed ex05.py
