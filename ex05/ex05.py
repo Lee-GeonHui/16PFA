@@ -1,10 +1,11 @@
-my_name = 'Zed A. Shaw'
-my_age = 35 # not a lie
+# -*- coding: utf-8 -*-
+my_name = 'Lee Geon Hui'
+my_age = 20 # not a lie
 my_height = 74 # inches
-my_weight = 180 # lbs
-my_eyes = 'Blue'
+my_weight = 181 # lbs
+my_eyes = 'Black'
 my_teeth = 'White'
-my_hair = 'Brown'
+my_hair = 'Black'
 
 print "Let's talk about %s." % my_name
 print "He's %d inches tall." % my_height
