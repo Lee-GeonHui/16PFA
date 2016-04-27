@@ -13,7 +13,7 @@ def print_a_line(line_count, f):
 
 current_file = open(input_file)
 
-print "First let's print the whole file:\n"
+print "First let's print the whole file:\n"      
 
 print_all(current_file)
 
