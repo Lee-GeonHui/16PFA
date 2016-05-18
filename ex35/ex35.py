@@ -4,6 +4,8 @@
 #else는 위 조건문들이 모두 거짓이면 수행된다.
 #구조적 프로그래밍(structure programing) -> 중요하게 여겨짐
 #객체지향 프로그래밍(objecting programing) ->
+#재귀호출
+#'=='는 ex28확인
 
 from sys import exit
 
