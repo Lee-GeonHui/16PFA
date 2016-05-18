@@ -6,7 +6,8 @@ while i < 6:
     numbers.append(i)
 
     i = i + 1
-    print "Numbers now: ", numbers
+
+    print "Numbers now: " + str(numbers)
     print "At the bottom i is %d" % i
 
 
