@@ -7,6 +7,8 @@
 #재귀호출
 #'=='는 ex28확인
 
+
+#구조적 프로그램의 좋은 예(ex35)
 from sys import exit
 
 def gold_room():
